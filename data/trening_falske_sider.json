@@ -1,0 +1,427 @@
+[
+    {
+        "input": "http://www.correiosdeangola.co.ao/",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.postashqiptare.al",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.amazon.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://support.apple.com/apple-id",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://damanhealth.ae",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.bankfab.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.du.ae",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.emirates.com/",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.etisalat.ae",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.noon.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.emiratespost.ae",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.aramex.com/ae/en",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.correoargentino.com.ar/",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.andreani.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.coles.com.au",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.optus.com.au/",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://plus.telstra.com.au/",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://auspost.com.au/mypost/track/",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://accounts.qantas.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://transportnsw.info",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.moh.gov.sa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.my.gov.sa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.absher.sa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.wasalt.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://najiz.sa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.saudiaramco.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.alrajhibank.com.sa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.stc.com.sa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.mobily.com.sa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.zain.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.qpost.qa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.qatarpost.qa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.kahramaa.gov.qa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.ooredoo.qa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.vodafone.qa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.moi.gov.qa",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.omanpost.om",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://oman.om",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.omantel.om",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.ooredoo.om",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.bahrain.bh",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.bahrainpost.gov.bh",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.batelco.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.stc.com.bh",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.posta.co.ke",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.posta.co.tz",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.posta.ug",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.epg.gov.ae",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.mpesa.in",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.mpesaforbusiness.co.ke",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.safaricom.co.ke",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.airtel.in",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.jio.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.bkash.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.nagad.com.bd",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.etisalat.eg",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.orange.eg",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.vodafone.com.eg",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.aliexpress.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.wish.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.temu.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.shein.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.lcwaikiki.eg",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.trendyol.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.migros.com.tr",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.getir.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.carrefour.com.tr",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.huawei.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.mi.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.oppo.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.samsung.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.lg.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.sony.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.playstation.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.xbox.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.nintendo.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.steam.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.epicgames.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.ubisoft.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.ea.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.netflix.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.disneyplus.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.hbomax.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.amazonprime.com",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    },
+    {
+        "input": "https://www.youtube.com/premium",
+        "kategori": "svindel",
+        "forklaring": "Dette nettstedet kan v\u00e6re en del av en svindelkampanje eller brukes til phishing. V\u00e6r sv\u00e6rt forsiktig."
+    }
+]

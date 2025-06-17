@@ -1,0 +1,17 @@
+[
+  {
+    "input": "finn.no",
+    "kategori": "trygg",
+    "forklaring": "Offisiell aktør og trygg melding"
+  },
+  {
+    "input": "vipps-sikker.net",
+    "kategori": "svindel",
+    "forklaring": "Falsk Vipps-side brukt i phishing"
+  },
+  {
+    "input": "dnb-kundekontroll.info",
+    "kategori": "svindel",
+    "forklaring": "Ukjent avsender som utgir seg for DNB"
+  }
+]

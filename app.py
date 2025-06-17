@@ -7,6 +7,10 @@ import nacl.encoding
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/", methods=["GET"])
+def index():
+    return "✅ TrustTunnel-backend er live", 200
+
 @app.route("/svar", methods=["POST"])
 def motta_svar():
     try:
@@ -16,7 +20,7 @@ def motta_svar():
         offentlig_nokkel = base64.b64decode(data.get("offentligNokkel"))
 
         verify_key = nacl.signing.VerifyKey(offentlig_nokkel)
-        verify_key.verify(melding.encode('utf-8'), signatur)
+        verify_key.verify(melding.encode("utf-8"), signatur)
 
         print("✅ Signatur er gyldig fra svar!")
         return jsonify({"valid": True, "message": "Svar verifisert ✅"}), 200
